@@ -5,7 +5,7 @@ Incredibly simple CLI to show the battery level in tmux. Mac specific.
 
 ![screenshot](https://cloud.githubusercontent.com/assets/291371/3788012/17d75966-1a4c-11e4-8c16-2a46bba2bd1b.png)
 
-You can see the checkbox on the left of the date.
+You can see the checkmark on the left of the date.
 
 ## Usage
 `tmux-battery`
