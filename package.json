@@ -1,0 +1,32 @@
+{
+  "name": "tmux-battery",
+  "version": "1.0.0",
+  "description": "Get the OS X battery level in a nice format, intended for tmuxline",
+  "main": "index.js",
+  "private": true,
+  "bin": {
+    "tmux-battery": "tmux-battery.js"
+  },
+  "dependencies": {
+    "plist": "^1.0.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/JoshTheGeek/node-tmux-battery"
+  },
+  "keywords": [
+    "battery",
+    "tmux",
+    "tmuxline"
+  ],
+  "author": "Josh Oldenburg",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/JoshTheGeek/node-tmux-battery/issues"
+  },
+  "homepage": "https://github.com/JoshTheGeek/node-tmux-battery"
+}
