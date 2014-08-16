@@ -7,7 +7,7 @@ Incredibly simple CLI to show the battery level in tmux. Mac specific.
 
 You can see the checkmark on the left of the date.
 
-There are two versions of this script. In the root directory is a JavaScript version. The JS version was ported from a shell script because it was cleaner. The `c` directory has a version written in C using CoreFoundation and IOKit. This version is understandably much faster (~10 to ~100x faster). I use the C version in my tmux status bar now.
+This is written in C using CoreFoundation and IOKit.
 
 ## Usage
 `tmux-battery`
